@@ -1,0 +1,20 @@
+{
+  "name": "adonis-service-provider-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninghao/adonis-service-provider-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninghao/adonis-service-provider-demo/issues"
+  },
+  "homepage": "https://github.com/ninghao/adonis-service-provider-demo#readme"
+}
